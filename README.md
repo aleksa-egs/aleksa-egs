@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aleksa-egs
 - 👀 I’m a Product Owner and Product Manager
 - 💞️ I’m an expert when it comes to building SaaS & enterprise apps, as well as huge fan of video game development.
-- 📫 How to reach me ...
+- 📫 How to reach me ... simple just go to www.eastgate.co
 
 <!---
 aleksa-egs/aleksa-egs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
